@@ -1,0 +1,55 @@
+
+.logo--odin{
+   width: 150px;
+}
+div.col>a{
+    text-decoration: none;
+   color: rgb(98, 97, 96);  
+}
+div.col>a:hover{
+color: white; 
+}
+div.society>a>p>i{
+    font-size: x-large;
+}
+div.col>p>a{
+    text-decoration: none;
+    color: rgb(98, 97, 96);  
+
+}
+div.col>p>a:hover{
+ color: white;
+}
+
+
+.nav--product{
+    background-color: white;
+    z-index: -5;
+   margin-top: 80px;
+   margin-bottom: 10px;
+}
+a{
+  text-decoration: none;
+}
+
+@media (max-width: 1200px) {
+    * {
+     font-size: large;
+    }
+  
+  }
+  @media (max-width: 768px) {
+    * {
+      font-size: large;
+    }
+  
+  }
+  @media (max-width: 576px) {
+    * {
+      font-size: larger;
+    }
+    
+  }
+#order_by{
+  margin-top: 50px;
+}
